@@ -6,26 +6,43 @@ This repository contains assignments related to cybersecurity and ethical hackin
 
 ## 📁 Project Structure
 
-campuspe-assignments
+```
+campuspe-assignments/
 │
-├── assignment1-bash-automation
+├── assignment1-bash-automation/
 │   ├── q1_system_info.sh
 │   ├── q2_file_manager.sh
 │   ├── q3_log_analyzer.sh
 │   ├── q4_backup.sh
-│   └── q5_user_report.sh
+│   ├── q5_user_report.sh
+│   ├── sample.log
+│   └── README.md
 │
-├── assignment2-network-scanning
-│   ├── ping_scanner.py
+├── assignment2-network-scanning/
+│   ├── arp2.csv
 │   ├── arp_scanner.py
-│   ├── nmap_scanner.py
-│   ├── main_scanner.py
-│   ├── threaded_scanner.py
 │   ├── gui_scanner.py
+│   ├── main_scanner.py
+│   ├── nmap_scanner.py
+│   ├── ping_scanner.py
 │   ├── scan_log.txt
+│   ├── threaded_scanner.py
+│   ├── README.md
+│   │
 │   └── screenshots/
+│       ├── all_scans.png
+│       ├── arp_csv.png
+│       ├── arp_output.png
+│       ├── gui.png
+│       ├── logging_proof.png
+│       ├── menu.png
+│       ├── multithreading.png
+│       ├── nmap_output.png
+│       ├── ping_output.png
+│       └── range_scan.png
 │
 └── README.md
+```
 
 ---
 
