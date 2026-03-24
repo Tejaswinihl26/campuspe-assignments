@@ -1,4 +1,4 @@
-# CampusPE Cybersecurity & Ethical Hacking Assignments
+# CampusPe Cybersecurity & Ethical Hacking Assignments
 
 This repository contains assignments related to cybersecurity and ethical hacking, implemented using Bash scripting and Python.
 
