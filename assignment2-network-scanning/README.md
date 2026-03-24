@@ -23,26 +23,28 @@ This project implements automated network scanning tools using Python. It perfor
 ```
 assignment2-network-scanning/
 │
-├── ping_scanner.py
+├── arp2.csv
 ├── arp_scanner.py
-├── nmap_scanner.py
-├── main_scanner.py
-├── threaded_scanner.py
 ├── gui_scanner.py
+├── main_scanner.py
+├── nmap_scanner.py
+├── ping_scanner.py
 ├── scan_log.txt
+├── threaded_scanner.py
+├── README.md
 │
 └── screenshots/
-    ├── ping_output.png
-    ├── arp_output.png
-    ├── nmap_output.png
+    ├── all_scans.png
     ├── arp_csv.png
-    ├── range_scan.png
-    ├── multithreading.png
+    ├── arp_output.png
     ├── gui.png
     ├── logging_proof.png
-    └── all_scans.png
+    ├── menu.png
+    ├── multithreading.png
+    ├── nmap_output.png
+    ├── ping_output.png
+    └── range_scan.png
 ```
-
 
 ---
 
