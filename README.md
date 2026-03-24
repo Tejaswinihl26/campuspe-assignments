@@ -1,12 +1,11 @@
-# Cybersecurity & Ethical Hacking Assignments
+# CampusPE Cybersecurity & Ethical Hacking Assignments
 
-This repository contains practical assignments focused on Linux automation and network scanning using Bash and Python in a Kali Linux environment.
+This repository contains assignments related to cybersecurity and ethical hacking, implemented using Bash scripting and Python.
 
 ---
 
-## Repository Structure
+## 📁 Project Structure
 
-```
 campuspe-assignments
 │
 ├── assignment1-bash-automation
@@ -14,63 +13,61 @@ campuspe-assignments
 │   ├── q2_file_manager.sh
 │   ├── q3_log_analyzer.sh
 │   ├── q4_backup.sh
-│   ├── q5_user_report.sh
-│   └── sample.log
+│   └── q5_user_report.sh
 │
 ├── assignment2-network-scanning
 │   ├── ping_scanner.py
 │   ├── arp_scanner.py
 │   ├── nmap_scanner.py
-│   └── screenshots
-│       ├── ping_output.png
-│       ├── arp_output.png
-│       └── nmap_output.png
-```
+│   ├── main_scanner.py
+│   ├── threaded_scanner.py
+│   ├── gui_scanner.py
+│   ├── scan_log.txt
+│   └── screenshots/
+│
+└── README.md
 
 ---
 
-## Assignment 1 — Bash Automation
+## 📌 Assignment 1 — Bash Automation
 
-Bash scripts created to automate common system administration tasks.
+Shell scripts to automate system-level tasks in Kali Linux.
 
-**Scripts included**
-
-* System information script
-* File management automation
-* Log analyzer
-* Backup automation
-* User report generator
-
-Environment: Kali Linux, GNU Bash
+### Features:
+- System information extraction
+- File management automation
+- Log analysis
+- Backup creation
+- User report generation
 
 ---
 
-## Assignment 2 — Network Scanning Automation
+## 📌 Assignment 2 — Network Scanning Automation
 
-Python scripts that automate basic network reconnaissance tasks.
+Python-based tools to perform network scanning and analysis.
 
-**Tools implemented**
-
-* Ping Scanner — checks host availability
-* ARP Scanner — retrieves IP and MAC addresses
-* Nmap Scanner — performs network scans using Nmap
-
-Screenshots of scan outputs are included in the `screenshots` folder.
-
-Environment: Kali Linux, Python, Nmap
-
----
-
-## Technologies Used
-
-* Kali Linux
-* Bash
-* Python
-* Nmap
-* Linux command-line utilities
+### Features:
+- Ping Scanner
+- ARP Scanner
+- Nmap Scanner
+- Unified Scanner (Menu-based)
+- CSV Export
+- Network Range Scanning
+- Multi-threaded Scanning
+- GUI using Tkinter
+- Logging with timestamps
 
 ---
 
-## Author
+## 🛠 Technologies Used
+- Kali Linux
+- Bash
+- Python
+- Nmap
+- Tkinter
+- Linux command-line tools
 
+---
+
+## 👩‍💻 Author
 Tejaswini H L
