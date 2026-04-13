@@ -22,38 +22,38 @@ assignment3-foundation of ethical hacking/
 ├── Section1/
 │   ├── section1_commands.txt
 │   ├── port_report.sh
-│   └── screenshots/
+│   
 
 ├── Section2/
 │   ├── password_checker.py
 │   ├── network_scanner.py
 │   ├── scan_results.txt
-│   └── screenshots/
+│   
 
 ├── Section3/
 │   ├── section3_networking.pdf
-│   └── screenshots/
+│   
 
 ├── Section4/
 │   ├── pointer_basics.c
 │   ├── buffer_test.c
 │   ├── c_port_scanner.c
-│   └── screenshots/
+│   
 
 ├── Section5/
 │   ├── section5_nmap.pdf
 │   ├── http-server-info.nse
-│   └── screenshots/
+│   
 
 ├── Section6/
 │   ├── section6_xss.pdf
 │   ├── keylogger.html
-│   └── screenshots/
+│   
 
 ├── Section7/ (Bonus)
 │   ├── security_audit.py
 │   ├── sample_report.html
-│   └── screenshots/
+│  
 
 └── README.md
 ```
